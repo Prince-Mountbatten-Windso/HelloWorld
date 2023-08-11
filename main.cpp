@@ -28,5 +28,7 @@ int main()
 	sort(arr,size);
 	printf("windows");
 	//
+
+	cout<<"linux"<<endl;
 	return 0;
 }
